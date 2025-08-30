@@ -57,7 +57,3 @@ int main() {
 All the images link to something. Click them. You won’t regret it. Probably.
 
 **Laughter is the best medicine**, so hopefully you got a giggle out of my README.
-
-## Check out my contribution graph in 1970
-
-[Source available here](https://github.com/0vm/commit-graph-spoof)

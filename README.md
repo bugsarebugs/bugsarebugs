@@ -20,19 +20,20 @@ Languages Include: C# | Python | C++ | GOLang | NodeJS
 
 ```cpp
 #include <iostream>
+using namespace std;
 
 int main() {
-    const std::string Name = "BUGSAREBUGS";
-    const std::string currentFocus = "JOMAFA COMPANY";
-    const std::string hehe = "BUGSAREBUGS's Cupcake Factory";
+    const string Name = "BUGSAREBUGS";
+    const string currentFocus = "JOMAFA COMPANY";
+    const string hehe = "BUGSAREBUGS's Cupcake Factory";
 
-    std::cout << "*************************************************************" << std::endl;
-    std::cout << "******************** " << hehe << " *******************" << std::endl;
-    std::cout << "*************************************************************" << std::endl;
-    std::cout << "🎉 Welcome to my uh repo place!" << std::endl;
-    std::cout << "🔥 I'm " << Name << ", a very good yesyes developer." << std::endl;
-    std::cout << "🔍 Currently focusing on " << currentFocus << "." << std::endl;
-    std::cout << "hmu if you want to work on something" << std::endl;
+    cout << "*************************************************************" << endl;
+    cout << "******************** " << hehe << " *******************" << endl;
+    cout << "*************************************************************" << endl;
+    cout << "🎉 Welcome to my uh repo place!" << std::endl;
+    cout << "🔥 I'm " << Name << ", a very good yesyes developer." << endl;
+    cout << "🔍 Currently focusing on " << currentFocus << "." << endl;
+    cout << "hmu if you want to work on something" << endl;
 
     return 0;
 }

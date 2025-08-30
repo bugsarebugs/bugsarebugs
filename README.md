@@ -44,7 +44,6 @@ int main() {
 
 ## GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0vm&show_icons=true&locale=en&count_private=true&theme=radical)](https://youtu.be/3CbgtJP7bsw)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0vm&langs_count=8&theme=radical&layout=pie)](https://www.youtube.com/watch?v=LEr2zxMUmXI)
 
 [![Views](https://komarev.com/ghpvc/?username=0vm)](https://youtu.be/kIte0CuJZ5E)

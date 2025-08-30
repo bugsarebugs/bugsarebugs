@@ -3,12 +3,12 @@
   <img src="https://github.com/0vm/0vm/assets/79897291/1d00efde-8b62-41ec-87fd-c307bc0cbbea" alt="a man has fallen in lego city" style="width: 100%;">
 </a>
 
-# 👋 Hey there! I'm 0vm!
+# 👋 Hey there! I'm bugsarebugs!
 
-[![Im actually ken not 0vm](https://github.com/0vm/0vm/assets/79897291/9f14f240-0159-4e52-b453-481139fc5bc7)](https://youtu.be/ruawVE5GwM8)
-[![Im actually ken not 0vm 2](https://64.media.tumblr.com/01fb98bd843b81ce68c7f5d357e1d6c6/tumblr_n83qrsQ2iC1rhhdfvo1_250.gif)](https://youtu.be/B66y995acNs)
-[![Im actually ken not 0vm 2](https://64.media.tumblr.com/01fb98bd843b81ce68c7f5d357e1d6c6/tumblr_n83qrsQ2iC1rhhdfvo1_250.gif)](https://youtu.be/B66y995acNs)
-[![Im actually ken not 0vm 2](https://64.media.tumblr.com/01fb98bd843b81ce68c7f5d357e1d6c6/tumblr_n83qrsQ2iC1rhhdfvo1_250.gif)](https://youtu.be/B66y995acNs)
+[![Im actually Joe not bugsarebugs](https://github.com/0vm/0vm/assets/79897291/9f14f240-0159-4e52-b453-481139fc5bc7)](https://youtu.be/ruawVE5GwM8)
+[![Im actually Joe not bugsarebugs 2](https://64.media.tumblr.com/01fb98bd843b81ce68c7f5d357e1d6c6/tumblr_n83qrsQ2iC1rhhdfvo1_250.gif)](https://youtu.be/B66y995acNs)
+[![Im actually Joe not bugsarebugs 2](https://64.media.tumblr.com/01fb98bd843b81ce68c7f5d357e1d6c6/tumblr_n83qrsQ2iC1rhhdfvo1_250.gif)](https://youtu.be/B66y995acNs)
+[![Im actually Joe not bugarebugs 2](https://64.media.tumblr.com/01fb98bd843b81ce68c7f5d357e1d6c6/tumblr_n83qrsQ2iC1rhhdfvo1_250.gif)](https://youtu.be/B66y995acNs)
 
 ## About Me
 
@@ -22,9 +22,9 @@ Languages Include: C# | Python | C++ | GOLang | NodeJS
 #include <iostream>
 
 int main() {
-    const std::string Name = "AK";
-    const std::string currentFocus = "DDoS Mitigation and Detection";
-    const std::string hehe = "AK's Cupcake Factory";
+    const std::string Name = "BUGSAREBUGS";
+    const std::string currentFocus = "JOMAFA COMPANY";
+    const std::string hehe = "BUGSAREBUGS's Cupcake Factory";
 
     std::cout << "*************************************************************" << std::endl;
     std::cout << "******************** " << hehe << " *******************" << std::endl;

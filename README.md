@@ -45,7 +45,7 @@ int main() {
 }
 ```
 
-<a href="https://www.programiz.com/online-compiler/7ABc7x1cPsd16">
+<a href="https://www.programiz.com/online-compiler/6tLy3wPZVM4K5">
   <img src="https://media1.tenor.com/m/-wsFw-3vb0oAAAAC/edpcupcake-cupcake.gif" alt="A Cupcake from my factory" style="width: 100%; height: 120px;">
 </a>
 

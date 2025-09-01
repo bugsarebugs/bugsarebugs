@@ -5,9 +5,6 @@ All the images link to something. Click them. You won’t regret it. Probably.
 **Laughter is the best medicine**, so hopefully you got a giggle out of my README.
 
 
-<a href="https://www.youtube.com/watch?v=k-3Cppde1pU&ab_channel=Hanato">
-  <img src="https://github.com/0vm/0vm/assets/79897291/1d00efde-8b62-41ec-87fd-c307bc0cbbea" alt="a man has fallen in lego city" style="width: 100%;">
-</a>
 
 # 👋 Hey there! I'm bugsarebugs!
 

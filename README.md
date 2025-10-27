@@ -8,7 +8,7 @@
   <li>Containers (Kubernettes, docker)</li>
   <li>Crypto And Blockchain</li>
   </ul>
-```javascript
+```js
   export fn functionality() u32 {
     var functions = ArrayList(Functionality).init(aloc);
     _ = functions.append(CreateFunctionality("hi", "void", "void")) catch undefined;

@@ -8,4 +8,19 @@
   <li>Containers (Kubernettes, docker)</li>
   <li>Crypto And Blockchain</li>
   </ul>
+<code>
+  export fn functionality() u32 {
+    var functions = ArrayList(Functionality).init(aloc);
+    _ = functions.append(CreateFunctionality("hi", "void", "void")) catch undefined;
+    var stringified = ArrayList(u8).init(aloc);
+    json.stringify(functions.items, .{}, stringified.writer()) catch undefined;
+    var unmanaged = stringified.moveToUnmanaged();
+    // get id for setting a value
+    const id = get_id();
+    const addr = get_addr(&unmanaged.items[0]);
+    //set the value to be consumed as a return type of this function
+    set_value(id, addr, unmanaged.items.len);
+    return id;
+}
+</code>
 <p>All My Life I Grew Up thinking I was sick, But i wasn't🎶</p>

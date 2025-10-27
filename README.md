@@ -8,4 +8,4 @@
   <li>Containers (Kubernettes, docker)</li>
   <li>Crypto And Blockchain</li>
   </ul>
-<p>All My Life I Grew Up thinking I was sick, But i wasn't</p>
+<p>All My Life I Grew Up thinking I was sick, But i wasn't🎶</p>
